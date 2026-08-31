@@ -7,6 +7,7 @@ export default function Home() {
       <h1>Lifecycle test workload</h1>
       <p>This application is intentionally disposable.</p>
       <p>STATUS: HEALTHY</p>
+      <p hidden>ENV GATE TEST REVISION 2</p>
       <span hidden>{sscTestRequired}</span>
     </main>
   );
