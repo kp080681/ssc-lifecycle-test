@@ -8,6 +8,7 @@ export default function Home() {
       <p>This application is intentionally disposable.</p>
       <p>STATUS: HEALTHY</p>
       <p hidden>ENV GATE TEST REVISION 2</p>
+      <p hidden>NODE 04.18 BUILD RECOVERY REVISION</p>
       <span hidden>{sscTestRequired}</span>
     </main>
   );
